@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StartNG Details Kt</string>
+    <string name="my_image">MY IMAGE</string>
+    <string name="full_name_stanley_umezuruike">FULL NAME: Stanley Umezuruike</string>
+    <string name="slack_username_codehunta">SLACK USERNAME: CodeHunta</string>
+    <string name="startng_email_manstylo_gmail_com">StartNG EMAIL: manstylo@gmail.com</string>
+    <string name="courses_python_kotlin_amp_flutter"><![CDATA[COURSES: Python, Kotlin & Flutter]]></string>
+    <string name="tracks_backend_amp_mobile_development"><![CDATA[TRACKS: BackEnd & Mobile Development]]></string>
+</resources>
